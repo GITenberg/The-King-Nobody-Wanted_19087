@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8459
 description: Stories from the Gospels have been put together to tell one story of
   Jesus, with actual words from the King James Version.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19087#The-King-Nobody-Wanted
 gutenberg_issued: '2006-08-20'
 gutenberg_type: Text
 identifiers:
