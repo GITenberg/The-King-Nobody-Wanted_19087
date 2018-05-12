@@ -1,0 +1,32 @@
+_repo: The-King-Nobody-Wanted_19087
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lear, John
+    gutenberg_agent_id: '8460'
+    url: http://www.gutenberg.org/2009/agents/8460
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Langford, Norman F.
+    alias: Langford, N. F. (Norman F.)
+    birthdate: 1914
+    gutenberg_agent_id: '8459'
+    url: http://www.gutenberg.org/2009/agents/8459
+description: Stories from the Gospels have been put together to tell one story of
+  Jesus, with actual words from the King James Version.
+gutenberg_issued: '2006-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Biography -- Juvenile literature'
+title: The King Nobody Wanted
+url: http://www.gutenberg.org/ebooks/19087
